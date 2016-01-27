@@ -1,4 +1,4 @@
-Small changes what a change what a change
+Introducing small changes for testing
 Tweepy: Twitter for Python!
 ======
 
